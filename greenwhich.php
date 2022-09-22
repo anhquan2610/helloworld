@@ -1,0 +1,1 @@
+echo "<h1> Wealcome to Greenwhich University </h1>"
