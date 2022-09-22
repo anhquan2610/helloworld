@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Viet Nam beautiful</h1>
+    <img src="https://www.ttrweekly.com/site/wp-content/uploads/2019/02/Phu-Quoc-island.jpg" alt="">
 </body>
 </html>
