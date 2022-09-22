@@ -1,1 +1,1 @@
-echo "<h1> Wealcome to Greenwhich University </h1>"
+echo "<h1> Chao Mung Tan sinh vien 2022 </h1>"
